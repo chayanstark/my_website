@@ -1,13 +1,14 @@
 baseurl = "https://chayanstark.github.io/my_website/"
 languageCode = "en-us"
 title = "My Website"
+themeDir = "themes"
 publishDir = "docs"
 theme ="project-landing-page"
 
 [params]
     description = "Amazing project."
     author_url = ""
-    project_url = ""
+    project_url = "https://github.com/chayanstark/my_website"
     project_documentation = ""
     github_project_name = "my_website"
     github_user_name = "chayanstark"
