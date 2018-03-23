@@ -1,6 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "My Website"
+publishDir = "docs"
 theme ="project-landing-page"
 
 [params]
