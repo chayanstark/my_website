@@ -1,0 +1,6 @@
+[submodule "github-project-landing-page"]
+	path = github-project-landing-page
+	url = https://github.com/nsomar/github-project-landing-page.git
+[submodule "themes/project-landing-page"]
+	path = themes/project-landing-page
+	url = https://github.com/nsomar/github-project-landing-page.git

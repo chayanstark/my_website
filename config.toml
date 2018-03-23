@@ -1,0 +1,25 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "My Website"
+theme ="project-landing-page"
+
+[params]
+    description = "Amazing project."
+    author_url = ""
+    project_url = ""
+    project_documentation = ""
+    github_project_name = "my_website"
+    github_user_name = "chayanstark"
+
+    first_color="#f8f8f8"
+    first_border_color="#e7e7e7"
+    first_text_color="#333"
+
+    second_color="white"
+    second_text_color="#333"
+
+    header_color="#f8f8f8"
+    header_text_color="rgb(51, 51, 51)"
+
+    header_link_color="#777"
+    header_link_hover_color="rgb(51, 51, 51)"
