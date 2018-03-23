@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/first/</loc>
+    <loc>https://chayanstark.github.io/my_website/post/first/</loc>
   </url>
   
   <url>
-    <loc>/post/second/</loc>
+    <loc>https://chayanstark.github.io/my_website/post/second/</loc>
   </url>
   
   <url>
-    <loc>/post/third/</loc>
+    <loc>https://chayanstark.github.io/my_website/post/third/</loc>
   </url>
   
   <url>
-    <loc>/post/first-post/</loc>
+    <loc>https://chayanstark.github.io/my_website/post/first-post/</loc>
     <lastmod>2018-03-23T19:41:26+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://chayanstark.github.io/my_website/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2018-03-23T19:41:26+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
+    <loc>https://chayanstark.github.io/my_website/</loc>
     <lastmod>2018-03-23T19:41:26+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://chayanstark.github.io/my_website/post/</loc>
+    <lastmod>2018-03-23T19:41:26+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chayanstark.github.io/my_website/tags/</loc>
     <priority>0</priority>
   </url>
   
